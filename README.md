@@ -16,10 +16,10 @@
         </ul>
         <div class="info">
             <h2>Datos del Producto</h2>
-            <li>1. Código</li>
-            <li>2. Nombre</li>
-            <li>3. Stock</li>
-            <li>4. Valor unitario</li>
+            <li>Código</li>
+            <li>Nombre</li>
+            <li>Stock</li>
+            <li>Valor unitario</li>
         </div>
     </div>
 </body>
