@@ -19,7 +19,7 @@
             <li>1. Código</li>
             <li>2. Nombre</li>
             <li>3. Stock</li>
-            <li>1. Valor unitario</li>
+            <li>4. Valor unitario</li>
         </div>
     </div>
 </body>
